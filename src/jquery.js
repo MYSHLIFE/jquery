@@ -1,3 +1,4 @@
+//hello,jquery, i'm coming .
 define([
 	"./core",
 	"./selector",
